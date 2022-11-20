@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,OAAOC,GAAG,cAAc,SAAUC,EAAUC,EAASC,G","sources":["src/js/02-video.js"],"sourcesContent":["player.on('timeupdate', function (duration, percent, seconds) {\n  // data is an object containing properties specific to that event\n});\n"],"names":["player","on","duration","percent","seconds"],"version":3,"file":"02-video.e6a3e1d4.js.map"}
